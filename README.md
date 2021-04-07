@@ -25,4 +25,8 @@
  #How to insert image
  
  ![image of JNTKU] (https://jntukucev.ac.in/wp-content/uploads/2020/03/banner_1.jpg)
- 
+ ## How to insert a table
+ ## My profile
+ |NAME|E-mail|Mobile|Profession|Location|
+ |-----|-----|-----|----------|--------|
+ |Kishore|krish998239@gmail.com|9059333509|Student|duvvada|
