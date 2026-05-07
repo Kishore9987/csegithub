@@ -13,7 +13,7 @@
  
  ## ordered list
  1. this is about first line
- 2. this is secind line
+ 2. this is second line
  3. Coding is fun
  
  A. C is basic programming
